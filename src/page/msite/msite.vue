@@ -1,5 +1,6 @@
 <template>
     <div>
+		<!-- 这个页面是主页 -->
     	<head-top signin-up='msite'>
     		<router-link :to="'/search/geohash'" class="link_search" slot="search">
 	    		<svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" version="1.1">
